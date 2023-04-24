@@ -1,0 +1,15 @@
+button{
+    height:70px;
+    width:70px;
+    background-color:black;
+    cursor:pointer;
+}
+
+#x{
+    width:1000px;
+    margin:auto;
+}
+
+#Fside{
+    float:left;
+}
